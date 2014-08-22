@@ -1,4 +1,4 @@
-bootcamp-android
-================
+Android Boot Camp
+=================
 
-Code for VandyApps template
+Template code for VandyApps Boot Camp
