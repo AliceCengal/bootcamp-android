@@ -1,9 +1,9 @@
 package com.vandyapps.bootcamp;
 
-import android.app.Activity;
 import android.os.Bundle;
+import roboguice.activity.RoboActivity;
 
-public class Main extends Activity {
+public class Main extends RoboActivity {
 
     @Override
     protected void onCreate(Bundle saved) {
