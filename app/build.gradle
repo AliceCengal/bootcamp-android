@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'android-scala'
 
 android {
     compileSdkVersion 19
