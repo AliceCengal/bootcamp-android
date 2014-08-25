@@ -18,6 +18,6 @@ class Main extends SActivity {
     if (text.getText == "Right") text.setText("Left")
     else text.setText("Right")
   }
-  
+
 }
 
